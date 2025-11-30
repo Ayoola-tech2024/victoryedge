@@ -1,4 +1,11 @@
+
+
 # VictoryEdge Solution Provider Website
+
+
+https://victory-edge-solution-provider.onrender.com
+
+http://bit.ly/48FEmKW
 
 A modern, professional, and accessible website for VictoryEdge Solution Provider - a professional development and business transformation company.
 
